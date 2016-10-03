@@ -1,0 +1,38 @@
+ {
+    "members": [
+        {
+        "user_id": 0,
+        "type": "artist",
+        "first_name": "Taylor",
+        "last_name": "Swift",
+        "email": "artist@gmail.com",
+        "password": "secret",
+        "DOB": "05/31/2016",
+        "sex": 2,
+        "phone_number": "702-542-0131",
+        "Newsletter": true,
+        "up_votes": [],
+        "down_votes": [],
+        "Imgdata": null,
+        "Following": [],
+        "Contestant": false
+        },
+        {
+        "user_id": 1,
+        "type": "voter",
+        "first_name": "Simon",
+        "last_name": "Cowell",
+        "email": "voter@gmail.com",
+        "password": "secret",
+        "DOB": "01/01/2016",
+        "sex": 1,
+        "phone_number": "702-312-7701",
+        "Newsletter": true,
+        "up_votes": [],
+        "down_votes": [],
+        "Imgdata": null,
+        "Following": [],
+        "Contestant": false
+        }
+    ]
+}
